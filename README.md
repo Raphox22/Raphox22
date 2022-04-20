@@ -1,4 +1,4 @@
-- 👻 Hi, I’m @Raphox22
+- 👻 Hi, I’m Rafael Luiz
 - 👀 I’m studying to be a Software Engineer!
 - 🎮 I'm currently learning C# 🎮
 
