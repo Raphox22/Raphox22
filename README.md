@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Luiz</h1>
 <h3 align="center">A passionate Unity developer</h3>
 
-- 🔭 Currently working on [Witness of Mercia](https://www.instagram.com/bluememoriestt?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- 🔭 Currently working on [Witness of Mercia](https://bluememories.itch.io/witness-of-mercia)
 
 - 🌱 Learning **Unity, C# and Game Design**
 
