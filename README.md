@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafael Luiz</h1>
 <h3 align="center">A passionate Unity developer</h3>
 
-- 🔭 I’m currently working on [Witness of Mercia](https://www.instagram.com/bluememoriestt?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+- 🔭 Currently working on [Witness of Mercia](https://www.instagram.com/bluememoriestt?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-- 🌱 I’m currently learning **Unity, C# and Game Design**
+- 🌱 Learning **Unity, C# and Game Design**
 
-- 👯 I’m looking to collaborate on **New Games**
+- 👯 Looking to collaborate on **New Games**
 
 - 📫 How to reach me **https://www.linkedin.com/in/rafaelluizpireslima/**
 
