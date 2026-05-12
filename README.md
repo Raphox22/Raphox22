@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Luiz</h1>
 <h3 align="center">A passionate Unity developer</h3>
 
-- 🔭 Currently working on [Witness of Mercia](https://bluememories.itch.io/witness-of-mercia)
+- 🔭 Currently working on [Mr. Zippy is Watching](https://bluememories.itch.io/mr-zippy)
 
 - 🌱 Learning **Unity, C# and Game Design**
 
