@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer & Unity Game Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unity-6000.4+-black?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-.NET%20%2F%20Mono-blue?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Architecture-Modular%20%26%20Clean%20Code-brightgreen?style=flat-square" alt="Architecture" />
 </p>
